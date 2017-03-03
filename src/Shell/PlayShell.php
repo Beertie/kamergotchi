@@ -14,7 +14,7 @@ class PlayShell extends Shell
     {
         $data = ["food", "attention", "knowledge"];
 
-        for ($i = 0; $i<3; $i++){
+        for ($i = 0; $i<4; $i++){
             foreach ($data as $d){
 
                 $lng = 19;
